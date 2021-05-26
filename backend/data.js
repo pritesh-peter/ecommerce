@@ -17,7 +17,7 @@ const data = {
       _id: "2",
       name: "Nike Slim Shirt",
       category: "Shirts",
-      image: "/images/product-1.jpg",
+      image: "/images/product-2.jpg",
       price: 122,
       brand: "Adidas",
       countInStock: 11,
