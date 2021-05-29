@@ -92,17 +92,17 @@ function ProductScreen(props) {
                           </div>
                         </div>
                       </li>
+
+                      <li>
+                        <button
+                          onClick={addToCartHandler}
+                          className="primary block"
+                        >
+                          Add to Cart
+                        </button>
+                      </li>
                     </>
                   )}
-
-                  <li>
-                    <button
-                      onClick={addToCartHandler}
-                      className="primary block"
-                    >
-                      Add to Cart
-                    </button>
-                  </li>
                 </ul>
               </div>
             </div>
