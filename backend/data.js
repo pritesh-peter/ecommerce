@@ -17,7 +17,6 @@ const data = {
   ],
   products: [
     {
-      _id: "1",
       name: "Nike Slim Shirt",
       category: "Shirts",
       image: "/images/product-1.jpg",
@@ -30,8 +29,7 @@ const data = {
     },
 
     {
-      _id: "2",
-      name: "Nike Slim Shirt",
+      name: "Adidas Slim Shirt",
       category: "Shirts",
       image: "/images/product-2.jpg",
       price: 122,
@@ -43,8 +41,7 @@ const data = {
     },
 
     {
-      _id: "3",
-      name: "Nike Slim Shirt",
+      name: "Puma Slim Shirt",
       category: "Shirts",
       image: "/images/product-1.jpg",
       price: 120,
@@ -56,8 +53,7 @@ const data = {
     },
 
     {
-      _id: "4",
-      name: "Nike Slim Shirt",
+      name: "Abibas Slim Shirt",
       category: "Shirts",
       image: "/images/product-1.jpg",
       price: 120,
@@ -69,8 +65,7 @@ const data = {
     },
 
     {
-      _id: "5",
-      name: "Nike Slim Shirt",
+      name: "Raymond Slim Shirt",
       category: "Shirts",
       image: "/images/product-1.jpg",
       price: 120,
